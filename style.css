@@ -6,9 +6,6 @@
 }
 
 
-/* MENU */
-
-
 /* Scroll */
 
 body::-webkit-scrollbar {
@@ -162,6 +159,21 @@ img {
     padding-top: 15px;
     padding-bottom: 15px;
     border-radius: 25px;
+    text-decoration: none;
+}
+
+
+/* termos */
+
+h2 {
+    font-size: large;
+    color: #42BF74;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 10px;
+}
+
+.termos {
+    text-align: left;
 }
 
 
