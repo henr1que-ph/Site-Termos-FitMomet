@@ -160,26 +160,6 @@ img {
     font-family: 'Poppins', sans-serif;
 }
 
-.qms-obj .qms-top .qms-prob .qms-ideia {
-    margin-top: 80px;
-    margin-bottom: 80px;
-}
-
-.qms-top {
-    margin-top: 80px;
-    margin-bottom: 80px;
-}
-
-.qms-prob {
-    margin-top: 80px;
-    margin-bottom: 80px;
-}
-
-.qms-ideia {
-    margin-top: 80px;
-    margin-bottom: 80px;
-}
-
 .btn-termo {
     font-family: 'Poppins', sans-serif;
     color: white;
@@ -198,12 +178,7 @@ h2 {
     font-size: large;
     color: #42BF74;
     font-family: 'Poppins', sans-serif;
-    margin-top: 0px;
-    margin-bottom: 60px;
-}
-
-.termo-1 {
-    margin-top: 60px;
+    margin-top: 10px;
 }
 
 .termos {
