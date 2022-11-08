@@ -133,6 +133,12 @@ img {
 
 /* Quem Somos */
 
+.qms p {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-size: smallx;
+}
+
 .qms {
     text-align: center;
     margin: 30px;
@@ -145,11 +151,6 @@ img {
     text-align: left;
     font-family: 'Poppins', sans-serif;
     list-style: inside;
-}
-
-.qms p {
-    font-family: 'Poppins', sans-serif;
-    text-align: justify;
 }
 
 .qms h1 {
@@ -174,6 +175,26 @@ img {
 
 /* termos */
 
+.trm p {
+    font-family: 'Poppins', sans-serif;
+    text-align: justify;
+}
+
+.trm h1 {
+    font-size: xx-large;
+    color: #42BF74;
+    margin-bottom: 20px;
+    margin-top: 15px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.trm {
+    text-align: center;
+    margin: 30px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
 h2 {
     font-size: large;
     color: #42BF74;
@@ -182,7 +203,7 @@ h2 {
 }
 
 .termos {
-    text-align: left;
+    text-align: justify;
 }
 
 
